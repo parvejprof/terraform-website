@@ -1,7 +1,4 @@
-### This is my learning project for Terraform, how to 
 
-This is important sides to get provider detaila
-https://registry.terraform.io/providers/hashicorp/aws/latest/docs
 
 
 ### This module create below resources and working 
